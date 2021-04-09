@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Walden
-- 🌱 I’m currently completing my PhD at Murdoch University
-- 💞️ I’m looking to collaborate on code development for sport and exercise science
+- 🔬 I’m currently completing my PhD at Murdoch University
+- 👀 I’m looking to collaborate on code development for sport and exercise science
 - 📫 You can reach me @ thomas.walden@murdoch.edu.au
 - 😎 Enjoy watching all things sport
 
